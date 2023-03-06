@@ -1,0 +1,26 @@
+Striped Rows
+
+ .table-striped
+
+.table-bordered
+
+.table-hover
+
+.table-dark and .table-striped
+
+
+Image
+
+.rounded
+
+.rounded-circle
+
+.img-thumbnail
+
+
+Alert
+
+.alert-success, .alert-info, .alert-warning, .alert-danger, .alert-primary, .alert-secondary, .alert-light or .alert-dark
+
+
+.jumbotron
